@@ -1,0 +1,25 @@
+
+{% extends 'base.html' %}
+{% block title %}Updates{% endblock title %}
+{% block body %}
+    {% if users %}
+    {% for user in users %}
+    <div class="container" style="padding:5%">
+        <h1 class="text-center">Edit Greetings</h1>
+        <form autocomplete="off" name="form" method="post" action = "/update/{{user.id}}" class="form" onsubmit="return validateform()">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="name">Name : </label>
+                <input type="text" class="form-control shadow-lg" id="name" name="name" value="{{ user.name }}">
+            </div>
+            <div class="form-group">
+                <label for="msg">Message : </label>
+                <input type="text" class="form-control shadow-lg" id="msg" name="msg" value="{{ user.msg }}">
+            </div>
+            <br>
+            <button type="submit" class="btn btn-primary" id="form-btn">Update</button>
+        </form>
+    </div>
+    {% endfor %}
+    {% endif %}
+{% endblock body %}

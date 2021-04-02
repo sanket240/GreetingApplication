@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}Message{% endblock title %}
+{% block body %}
+{% if messages %}
+{% for message in messages %}
+         <div class="alert alert-{{ message.tags }} alert-dissimsible fade show" role="alert">
+           <strong>{{ message }}</strong>
+          <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+  {% endfor %}
+{% endif %}
+    <div class="container"style="padding:5%;">
+      {% csrf_token %}
+      <div class="row" style="padding:auto">
+        {% for user in users %}
+        <div class="col-3">
+          <div class="card shadow-lg p-3 mb-5 bg-white rounded " style="width:15rem" >
+            <div class="card-header">
+              <h2 class="card-title">{{user.name}}</h2>
+            </div>
+            <div class="card-body">
+              <p class="card-text">{{ user.msg }}</p>
+              <a href="/update/{{ user.id }}" class="btn btn-outline-primary"id="card-btn" >Edit</a>
+
+            </div>
+          </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+{% endblock body %}

@@ -1,0 +1,1758 @@
+INFO 2021-01-29 08:26:53,872 autoreload Watching for file changes with StatReloader
+INFO 2021-01-29 08:27:10,808 autoreload Watching for file changes with StatReloader
+INFO 2021-01-29 08:27:13,651 basehttp "GET / HTTP/1.1" 200 2748
+WARNING 2021-01-29 08:27:13,688 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668
+WARNING 2021-01-29 08:27:13,688 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674
+WARNING 2021-01-29 08:27:13,710 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668
+INFO 2021-01-29 08:38:26,855 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\models.py changed, reloading.
+INFO 2021-01-29 08:38:27,872 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 08:38:33,001 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:33,049 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:33,051 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:37,273 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:37,303 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:37,303 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:37,318 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:42,089 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:42,122 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:42,123 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:42,141 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:42,481 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:42,514 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:42,514 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+INFO 2021-01-29 08:38:42,712 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:42,739 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:42,740 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:42,756 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:42,872 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:42,898 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:42,900 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:42,913 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:43,041 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:38:43,072 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:43,072 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:49,436 views New user is added to greeting database. 27
+INFO 2021-01-29 08:38:49,441 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:38:49,447 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:38:49,452 basehttp "GET /show HTTP/1.1" 200 2573 157
+WARNING 2021-01-29 08:38:49,483 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:49,484 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:55,767 views Update page is rendered for user 1. 57
+INFO 2021-01-29 08:38:55,773 basehttp "GET /update/1 HTTP/1.1" 200 2725 157
+WARNING 2021-01-29 08:38:55,801 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:55,801 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:55,817 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:38:57,107 views data for user id 1 is updated in greeting databse  51
+INFO 2021-01-29 08:38:57,108 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:38:57,113 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:38:57,117 basehttp "GET /show HTTP/1.1" 200 2842 157
+WARNING 2021-01-29 08:38:57,145 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:38:57,145 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:38:57,157 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:01,415 views Update page is rendered for user 1. 57
+INFO 2021-01-29 08:39:01,419 basehttp "GET /update/1 HTTP/1.1" 200 2725 157
+WARNING 2021-01-29 08:39:01,447 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:39:01,448 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:01,467 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:02,678 views data for user id 1 is updated in greeting databse  51
+INFO 2021-01-29 08:39:02,679 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:39:02,683 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:39:02,686 basehttp "GET /show HTTP/1.1" 200 2842 157
+WARNING 2021-01-29 08:39:02,714 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:02,715 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:09,167 views Update page is rendered for user 1. 57
+INFO 2021-01-29 08:39:09,174 basehttp "GET /update/1 HTTP/1.1" 200 2725 157
+WARNING 2021-01-29 08:39:09,206 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:39:09,207 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:09,216 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:16,610 views data for user id 1 is updated in greeting databse  51
+INFO 2021-01-29 08:39:16,611 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:39:16,615 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:39:16,628 basehttp "GET /show HTTP/1.1" 200 2847 157
+WARNING 2021-01-29 08:39:16,656 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:16,662 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:45,921 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:39:45,952 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:39:45,952 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:45,962 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:46,209 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:39:46,234 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:39:46,235 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:46,251 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:39:52,092 views New user is added to greeting database. 27
+INFO 2021-01-29 08:39:52,092 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:39:52,096 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:39:52,103 basehttp "GET /show HTTP/1.1" 200 2578 157
+WARNING 2021-01-29 08:39:52,138 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:39:52,139 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:41:12,239 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:41:12,245 basehttp "GET /show HTTP/1.1" 200 2578 157
+WARNING 2021-01-29 08:41:12,269 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:41:12,270 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:41:25,556 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:41:25,617 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:41:25,617 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:41:25,700 log Not Found: /favicon.ico 230
+WARNING 2021-01-29 08:41:25,700 basehttp "GET /favicon.ico HTTP/1.1" 404 2668 157
+INFO 2021-01-29 08:41:32,231 views New user is added to greeting database. 27
+INFO 2021-01-29 08:41:32,232 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:41:32,238 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:41:32,245 basehttp "GET /show HTTP/1.1" 200 2578 157
+WARNING 2021-01-29 08:41:32,268 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:41:32,268 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+INFO 2021-01-29 08:41:34,550 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:41:34,556 basehttp "GET /show HTTP/1.1" 200 2578 157
+WARNING 2021-01-29 08:41:34,582 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:41:34,583 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:41:34,595 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:41:35,321 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:41:35,349 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:41:35,350 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+INFO 2021-01-29 08:41:36,143 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:41:36,147 basehttp "GET /show HTTP/1.1" 200 2578 157
+WARNING 2021-01-29 08:41:36,176 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:41:36,178 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:37,261 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\models.py changed, reloading. 240
+INFO 2021-01-29 08:42:38,218 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 08:42:40,639 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:40,670 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:40,670 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:42:40,682 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:44,367 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:44,388 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:44,388 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:48,826 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:48,861 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:48,866 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:48,982 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,004 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:42:49,005 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,019 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:49,171 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,203 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,203 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:49,316 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,347 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:42:49,349 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,362 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:49,472 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,499 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:42:49,500 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,513 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:49,617 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,643 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,645 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:49,761 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,788 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,790 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:49,906 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:42:49,937 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:49,937 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:42:54,551 views New user is added to greeting database. 27
+INFO 2021-01-29 08:42:54,553 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:42:54,557 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:42:54,575 basehttp "GET /show HTTP/1.1" 200 3488 157
+WARNING 2021-01-29 08:42:54,600 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:42:54,602 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:46:12,354 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 08:46:14,805 basehttp "GET / HTTP/1.1" 200 2748 157
+WARNING 2021-01-29 08:46:14,840 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:46:14,842 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:46:16,863 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:46:16,873 basehttp "GET /show HTTP/1.1" 200 3227 157
+WARNING 2021-01-29 08:46:16,903 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 08:46:16,904 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:46:16,912 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 08:49:12,397 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-29 08:49:13,355 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 08:49:16,183 basehttp "GET / HTTP/1.1" 200 2743 157
+WARNING 2021-01-29 08:49:16,214 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:49:16,216 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:49:16,227 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:49:20,445 views New user is added to greeting database. 27
+INFO 2021-01-29 08:49:20,450 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:49:20,455 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:49:20,469 basehttp "GET /show HTTP/1.1" 200 3852 157
+WARNING 2021-01-29 08:49:20,490 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:49:20,491 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:49:33,131 views Update page is rendered for user 1. 57
+INFO 2021-01-29 08:49:33,136 basehttp "GET /update/1 HTTP/1.1" 200 2725 157
+WARNING 2021-01-29 08:49:33,167 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:49:33,168 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:49:39,080 views data for user id 1 is updated in greeting databse  51
+INFO 2021-01-29 08:49:39,081 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:49:39,086 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:49:39,098 basehttp "GET /show HTTP/1.1" 200 3861 157
+WARNING 2021-01-29 08:49:39,126 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:49:39,131 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:49:39,144 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:54:56,434 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\GreetingApp\settings.py changed, reloading. 240
+INFO 2021-01-29 08:54:57,400 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 08:54:59,321 basehttp "GET / HTTP/1.1" 200 2743 157
+WARNING 2021-01-29 08:54:59,352 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:54:59,354 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:55:04,204 views New user is added to greeting database. 27
+INFO 2021-01-29 08:55:04,207 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:55:04,211 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:55:04,296 basehttp "GET /show HTTP/1.1" 200 4478 157
+WARNING 2021-01-29 08:55:04,322 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:55:04,322 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:55:04,333 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:55:18,125 basehttp "GET /admin/ HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:55:18,148 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198 157
+INFO 2021-01-29 08:55:18,166 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2138 157
+INFO 2021-01-29 08:55:18,167 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 16307 157
+INFO 2021-01-29 08:55:18,168 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360 157
+INFO 2021-01-29 08:55:18,168 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 1185 157
+INFO 2021-01-29 08:55:18,169 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 18339 157
+INFO 2021-01-29 08:55:19,756 basehttp "GET /admin/ HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:55:19,775 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2198 157
+INFO 2021-01-29 08:55:19,799 basehttp "GET /static/admin/css/fonts.css HTTP/1.1" 304 0 157
+INFO 2021-01-29 08:55:19,837 basehttp "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0 157
+INFO 2021-01-29 08:55:19,837 basehttp "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0 157
+INFO 2021-01-29 08:55:21,266 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2360 157
+INFO 2021-01-29 08:55:21,294 basehttp "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0 157
+INFO 2021-01-29 08:55:32,211 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2360 157
+INFO 2021-01-29 08:55:39,619 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:55:39,625 basehttp "GET /show HTTP/1.1" 200 4217 157
+WARNING 2021-01-29 08:55:39,651 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:55:39,651 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:55:39,661 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:55:51,189 views Update page is rendered for user 1. 57
+INFO 2021-01-29 08:55:51,193 basehttp "GET /update/1 HTTP/1.1" 200 2726 157
+WARNING 2021-01-29 08:55:51,220 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:55:51,221 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:56:03,184 views data for user id 1 is updated in greeting databse  51
+INFO 2021-01-29 08:56:03,184 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:56:03,189 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:56:03,200 basehttp "GET /show HTTP/1.1" 200 4481 157
+WARNING 2021-01-29 08:56:03,224 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:56:03,226 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:56:04,766 views Update page is rendered for user 2. 57
+INFO 2021-01-29 08:56:04,771 basehttp "GET /update/2 HTTP/1.1" 200 2723 157
+WARNING 2021-01-29 08:56:04,795 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:56:04,796 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:56:17,397 views data for user id 2 is updated in greeting databse  51
+INFO 2021-01-29 08:56:17,398 basehttp "POST /update/2 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:56:17,401 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:56:17,411 basehttp "GET /show HTTP/1.1" 200 4490 157
+WARNING 2021-01-29 08:56:17,434 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:56:17,435 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:56:24,670 views Update page is rendered for user 3. 57
+INFO 2021-01-29 08:56:24,675 basehttp "GET /update/3 HTTP/1.1" 200 2722 157
+WARNING 2021-01-29 08:56:24,700 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:56:24,700 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:56:24,712 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:56:40,416 views data for user id 3 is updated in greeting databse  51
+INFO 2021-01-29 08:56:40,417 basehttp "POST /update/3 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:56:40,422 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:56:40,433 basehttp "GET /show HTTP/1.1" 200 4499 157
+WARNING 2021-01-29 08:56:40,458 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:56:40,459 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:56:40,468 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:57:03,888 views Update page is rendered for user 4. 57
+INFO 2021-01-29 08:57:03,896 basehttp "GET /update/4 HTTP/1.1" 200 2722 157
+WARNING 2021-01-29 08:57:03,920 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:57:03,922 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:57:12,854 views data for user id 4 is updated in greeting databse  51
+INFO 2021-01-29 08:57:12,855 basehttp "POST /update/4 HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:57:12,859 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:57:12,872 basehttp "GET /show HTTP/1.1" 200 4498 157
+WARNING 2021-01-29 08:57:12,902 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:57:12,903 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:57:12,912 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:57:41,414 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:57:41,420 basehttp "GET /show HTTP/1.1" 200 4229 157
+WARNING 2021-01-29 08:57:41,441 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:57:41,442 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:57:41,454 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:57:42,464 basehttp "GET / HTTP/1.1" 200 2743 157
+WARNING 2021-01-29 08:57:42,487 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:57:42,488 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:57:42,500 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:57:48,751 views New user is added to greeting database. 27
+INFO 2021-01-29 08:57:48,752 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 08:57:48,754 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:57:48,766 basehttp "GET /show HTTP/1.1" 200 5045 157
+WARNING 2021-01-29 08:57:48,791 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:57:48,791 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:58:43,791 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 08:58:45,648 basehttp "GET / HTTP/1.1" 200 2743 157
+WARNING 2021-01-29 08:58:45,684 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 08:58:45,685 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:58:45,696 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:58:46,855 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:58:46,935 basehttp "GET /show HTTP/1.1" 200 4632 157
+WARNING 2021-01-29 08:58:46,964 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:58:46,965 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 08:59:05,975 views All data is fetched from greeting database. 36
+INFO 2021-01-29 08:59:05,981 basehttp "GET /show HTTP/1.1" 200 4632 157
+WARNING 2021-01-29 08:59:06,005 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 08:59:06,006 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 09:00:16,085 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\models.py changed, reloading. 240
+INFO 2021-01-29 09:00:17,061 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:00:18,565 basehttp "GET / HTTP/1.1" 200 2743 157
+WARNING 2021-01-29 09:00:18,600 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 09:00:18,600 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 09:00:18,616 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 09:00:20,264 views All data is fetched from greeting database. 36
+INFO 2021-01-29 09:00:20,271 basehttp "GET /show HTTP/1.1" 200 4327 157
+WARNING 2021-01-29 09:00:20,296 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 09:00:20,297 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 09:00:20,307 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 09:00:23,871 views Update page is rendered for user 1. 57
+INFO 2021-01-29 09:00:23,877 basehttp "GET /update/1 HTTP/1.1" 200 2721 157
+WARNING 2021-01-29 09:00:23,903 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 09:00:23,903 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 09:00:23,916 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 09:00:27,339 views data for user id 1 is updated in greeting databse  51
+INFO 2021-01-29 09:00:27,344 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 09:00:27,347 views All data is fetched from greeting database. 36
+INFO 2021-01-29 09:00:27,360 basehttp "GET /show HTTP/1.1" 200 4593 157
+WARNING 2021-01-29 09:00:27,387 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+WARNING 2021-01-29 09:00:27,388 basehttp "GET /static/css/greeting.css HTTP/1.1" 404 1674 157
+WARNING 2021-01-29 09:00:27,402 basehttp "GET /static/js/app.js HTTP/1.1" 404 1653 157
+INFO 2021-01-29 09:03:39,132 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:03:41,579 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:08:22,886 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:08:23,859 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:15:40,795 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:15:41,826 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:42:21,537 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:42:22,534 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:46:14,926 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:46:15,890 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:47:23,136 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:47:24,215 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:48:48,130 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:48:49,588 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:49:48,619 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:49:51,097 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 09:49:51,145 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 09:49:51,217 log Not Found: /favicon.ico 230
+WARNING 2021-01-29 09:49:51,218 basehttp "GET /favicon.ico HTTP/1.1" 404 2485 157
+INFO 2021-01-29 09:49:56,599 views All data is fetched from greeting database. 31
+INFO 2021-01-29 09:49:56,610 basehttp "GET /show HTTP/1.1" 200 4243 157
+WARNING 2021-01-29 09:49:56,634 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 09:50:09,996 views Update page is rendered for user 5. 53
+INFO 2021-01-29 09:50:10,002 basehttp "GET /update/5 HTTP/1.1" 200 2637 157
+WARNING 2021-01-29 09:50:10,025 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 09:50:21,838 views data for user id 5 is updated in greeting databse  47
+INFO 2021-01-29 09:50:21,841 basehttp "POST /update/5 HTTP/1.1" 302 0 157
+INFO 2021-01-29 09:50:21,845 views All data is fetched from greeting database. 31
+INFO 2021-01-29 09:50:21,855 basehttp "GET /show HTTP/1.1" 200 4514 157
+WARNING 2021-01-29 09:50:21,876 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 09:50:50,324 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:50:51,313 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 09:51:04,947 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 09:51:05,925 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:32:42,196 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:32:43,423 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:34:16,253 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:34:17,512 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:35:39,011 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:35:39,980 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:35:54,654 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:35:55,684 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:36:11,296 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:36:12,649 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:37:15,860 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:37:16,893 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:37:35,599 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:37:36,800 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:39:49,983 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:39:50,017 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 10:39:54,543 views Invalid Data in greetings 20
+ERROR 2021-01-29 10:39:54,672 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 17, in post
+    user.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 21, in post
+    raise GreetingException("Invalid Data in Greeting!!")
+Greeting.greeting_exception.GreetingException: Invalid Data in Greeting!!
+ERROR 2021-01-29 10:39:54,674 basehttp "POST / HTTP/1.1" 500 147333 157
+INFO 2021-01-29 10:41:04,753 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:41:06,026 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:41:06,063 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 10:41:08,664 views Invalid Data in greetings 20
+ERROR 2021-01-29 10:41:08,783 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 17, in post
+    user.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 21, in post
+    raise GreetingException("Invalid Data in Greeting!!")
+Greeting.greeting_exception.GreetingException: Invalid Data in Greeting!!
+ERROR 2021-01-29 10:41:08,786 basehttp "POST / HTTP/1.1" 500 147213 157
+INFO 2021-01-29 10:42:18,359 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:42:18,393 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 10:42:18,410 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:42:18,496 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:42:19,562 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:43:01,964 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:43:02,909 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:43:06,952 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:43:07,971 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:43:07,998 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 10:43:11,007 views Invalid Data in greetings 26
+INFO 2021-01-29 10:43:11,007 views New Greeting Created 27
+INFO 2021-01-29 10:43:11,010 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 10:43:11,015 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:43:11,021 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:43:11,045 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:44:19,572 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:44:20,560 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:44:22,144 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:44:22,174 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+ERROR 2021-01-29 10:44:25,875 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 21, in post
+    user.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+ERROR 2021-01-29 10:44:25,878 basehttp "POST / HTTP/1.1" 500 142839 157
+INFO 2021-01-29 10:45:48,841 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:45:49,789 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:45:52,013 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:45:52,044 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:45:55,096 views New user is added to greeting database. 27
+INFO 2021-01-29 10:45:55,100 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 10:45:55,103 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:45:55,110 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:45:55,133 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:45:57,224 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:45:57,230 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:45:57,249 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:45:58,162 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:45:58,182 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:45:58,496 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:45:58,501 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:45:58,521 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:47:01,195 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:47:01,203 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:47:01,221 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:47:02,580 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:47:02,601 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:47:02,867 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:47:02,885 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:47:06,318 views New user is added to greeting database. 27
+INFO 2021-01-29 10:47:06,319 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 10:47:06,323 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:47:06,326 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:47:06,348 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:48:50,476 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:48:50,516 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:48:53,869 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:48:53,892 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:48:54,299 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:48:54,316 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:48:54,467 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:48:54,487 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:48:54,627 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:48:54,645 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:48:58,309 views New user is added to greeting database. 27
+INFO 2021-01-29 10:48:58,309 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 10:48:58,317 views All data is fetched from greeting database. 36
+INFO 2021-01-29 10:48:58,324 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:48:58,344 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:52:47,250 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:52:48,287 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:53:20,518 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:53:21,628 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:53:42,498 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:53:43,461 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:54:02,279 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:54:03,290 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:54:15,907 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:54:16,881 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:54:18,084 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:54:18,118 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 10:54:18,134 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:54:21,158 views New Greeting Created 28
+INFO 2021-01-29 10:54:21,165 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 10:54:21,168 views All data is fetched from greeting database. 37
+INFO 2021-01-29 10:54:21,173 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:54:21,196 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:55:52,370 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:55:53,393 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:57:18,549 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:57:19,516 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 10:57:22,505 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:57:22,550 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 10:57:22,616 log Not Found: /favicon.ico 230
+WARNING 2021-01-29 10:57:22,617 basehttp "GET /favicon.ico HTTP/1.1" 404 2485 157
+INFO 2021-01-29 10:57:26,009 views New user is added to greeting database. 23
+INFO 2021-01-29 10:57:26,013 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 10:57:26,016 views All data is fetched from greeting database. 33
+INFO 2021-01-29 10:57:26,025 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:57:26,047 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:57:28,228 views All data is fetched from greeting database. 33
+INFO 2021-01-29 10:57:28,235 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 10:57:28,260 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:57:28,989 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 10:57:29,012 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 10:59:48,088 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 10:59:49,135 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:01:28,960 basehttp "GET / HTTP/1.1" 200 2662 157
+WARNING 2021-01-29 11:01:29,034 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 11:01:29,266 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 11:01:29,311 log Not Found: /favicon.ico 230
+WARNING 2021-01-29 11:01:29,311 basehttp "GET /favicon.ico HTTP/1.1" 404 2485 157
+INFO 2021-01-29 11:01:36,061 views New user is added to greeting database. 23
+INFO 2021-01-29 11:01:36,064 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:01:36,066 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:01:36,074 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:01:36,098 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:01:38,790 basehttp "GET / HTTP/1.1" 200 2662 157
+INFO 2021-01-29 11:06:38,743 basehttp "GET / HTTP/1.1" 200 3071 157
+WARNING 2021-01-29 11:06:38,784 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:40,321 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:06:40,327 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:06:40,350 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:43,031 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:06:43,038 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:06:43,057 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:43,514 basehttp "GET / HTTP/1.1" 200 3071 157
+WARNING 2021-01-29 11:06:43,535 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:46,449 views New user is added to greeting database. 23
+INFO 2021-01-29 11:06:46,449 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:06:46,455 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:06:46,458 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:06:46,485 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:48,449 basehttp "GET / HTTP/1.1" 200 3071 157
+INFO 2021-01-29 11:06:52,431 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:06:52,438 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:06:52,458 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:54,679 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:06:54,685 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:06:54,705 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:06:55,139 basehttp "GET / HTTP/1.1" 200 3071 157
+WARNING 2021-01-29 11:06:55,159 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:43,313 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:09:43,319 basehttp "GET /show HTTP/1.1" 200 4245 157
+WARNING 2021-01-29 11:09:43,344 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:44,048 views Update page is rendered for user 1. 53
+INFO 2021-01-29 11:09:44,053 basehttp "GET /update/1 HTTP/1.1" 200 2635 157
+WARNING 2021-01-29 11:09:44,074 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:52,660 views data for user id 1 is updated in greeting databse  47
+INFO 2021-01-29 11:09:52,660 basehttp "POST /update/1 HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:09:52,663 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:09:52,675 basehttp "GET /show HTTP/1.1" 200 4517 157
+WARNING 2021-01-29 11:09:52,694 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:54,943 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:09:54,949 basehttp "GET /show HTTP/1.1" 200 4248 157
+WARNING 2021-01-29 11:09:54,967 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:55,681 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:09:55,702 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:56,967 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:09:56,972 basehttp "GET /show HTTP/1.1" 200 4248 157
+WARNING 2021-01-29 11:09:56,993 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:57,427 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:09:57,447 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:09:58,251 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:09:58,269 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:10:01,535 views New user is added to greeting database. 23
+INFO 2021-01-29 11:10:01,535 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:10:01,541 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:10:01,546 basehttp "GET /show HTTP/1.1" 200 4248 157
+WARNING 2021-01-29 11:10:01,570 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:10:03,071 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:10:03,078 basehttp "GET /show HTTP/1.1" 200 4248 157
+WARNING 2021-01-29 11:10:03,098 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:10:03,513 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:10:03,532 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:10:03,911 views All data is fetched from greeting database. 32
+INFO 2021-01-29 11:10:03,916 basehttp "GET /show HTTP/1.1" 200 4248 157
+WARNING 2021-01-29 11:10:03,939 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:10:04,426 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:10:04,445 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:12:08,502 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 11:12:09,451 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:12:13,467 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:12:13,506 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:12:15,601 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:12:15,628 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+ERROR 2021-01-29 11:12:18,888 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 23, in post
+    greet.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+ERROR 2021-01-29 11:12:18,891 basehttp "POST / HTTP/1.1" 500 143140 157
+INFO 2021-01-29 11:12:57,326 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 11:12:58,288 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:13:05,000 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:13:07,522 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:13:07,552 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+ERROR 2021-01-29 11:13:10,652 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 21, in post
+    greet.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+ERROR 2021-01-29 11:13:10,657 basehttp "POST / HTTP/1.1" 500 142741 157
+INFO 2021-01-29 11:14:50,615 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\models.py changed, reloading. 240
+INFO 2021-01-29 11:14:51,613 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:15:55,449 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:15:56,867 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:15:56,900 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+ERROR 2021-01-29 11:15:59,965 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 20, in post
+    greet.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+ERROR 2021-01-29 11:15:59,970 basehttp "POST / HTTP/1.1" 500 142797 157
+INFO 2021-01-29 11:16:24,997 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 11:16:26,028 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:16:31,969 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:16:33,052 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:16:33,088 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+WARNING 2021-01-29 11:16:35,792 views Invalid Data in greetings 22
+ERROR 2021-01-29 11:16:35,918 log Internal Server Error: / 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 19, in post
+    user.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.date
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 23, in post
+    raise GreetingException("Invalid Data in Greeting!!")
+Greeting.greeting_exception.GreetingException: Invalid Data in Greeting!!
+ERROR 2021-01-29 11:16:35,924 basehttp "POST / HTTP/1.1" 500 147215 157
+INFO 2021-01-29 11:17:18,814 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\models.py changed, reloading. 240
+INFO 2021-01-29 11:17:19,792 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:17:20,095 views All data is fetched from greeting database. 34
+INFO 2021-01-29 11:17:20,111 basehttp "GET /show HTTP/1.1" 200 4248 157
+WARNING 2021-01-29 11:17:20,137 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:17:21,472 views Update page is rendered for user 1. 55
+INFO 2021-01-29 11:17:21,479 basehttp "GET /update/1 HTTP/1.1" 200 2638 157
+WARNING 2021-01-29 11:17:21,505 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:18:45,672 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\models.py changed, reloading. 240
+INFO 2021-01-29 11:18:46,675 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:19:06,963 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:19:13,757 basehttp "GET / HTTP/1.1" 200 3064 157
+WARNING 2021-01-29 11:19:13,788 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:19:16,128 views New Greeting Created 24
+INFO 2021-01-29 11:19:16,137 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:19:16,142 views All data is fetched from greeting database. 34
+INFO 2021-01-29 11:19:16,156 basehttp "GET /show HTTP/1.1" 200 4947 157
+WARNING 2021-01-29 11:19:16,175 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:19:23,931 basehttp "GET / HTTP/1.1" 200 3064 157
+INFO 2021-01-29 11:19:25,591 views New Greeting Created 24
+INFO 2021-01-29 11:19:25,592 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:19:25,595 views All data is fetched from greeting database. 34
+INFO 2021-01-29 11:19:25,606 basehttp "GET /show HTTP/1.1" 200 5390 157
+WARNING 2021-01-29 11:19:25,627 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:19:28,153 views Update page is rendered for user 7. 55
+INFO 2021-01-29 11:19:28,157 basehttp "GET /update/7 HTTP/1.1" 200 2628 157
+WARNING 2021-01-29 11:19:28,178 basehttp "GET /static/js/greeting.js HTTP/1.1" 404 1668 157
+INFO 2021-01-29 11:19:29,151 views All data is fetched from greeting database. 34
+INFO 2021-01-29 11:19:29,156 basehttp "GET /show HTTP/1.1" 200 5140 157
+INFO 2021-01-29 11:19:29,499 basehttp "GET / HTTP/1.1" 200 3064 157
+INFO 2021-01-29 11:28:01,072 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\GreetingApp\settings.py changed, reloading. 240
+INFO 2021-01-29 11:28:02,089 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:28:12,358 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:28:13,663 basehttp "GET / HTTP/1.1" 200 3064 157
+INFO 2021-01-29 11:28:13,690 basehttp "GET /static/js/greeting.js HTTP/1.1" 200 296 157
+INFO 2021-01-29 11:33:01,265 basehttp "GET / HTTP/1.1" 200 3063 157
+INFO 2021-01-29 11:33:01,304 basehttp "GET /static/js/greeting.js HTTP/1.1" 200 306 157
+INFO 2021-01-29 11:34:10,353 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 11:34:11,427 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 11:39:03,443 basehttp "GET / HTTP/1.1" 200 3054 157
+INFO 2021-01-29 11:39:03,465 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-29 11:39:06,115 views New Greeting Created 24
+INFO 2021-01-29 11:39:06,118 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 11:39:06,122 views All data is fetched from greeting database. 33
+INFO 2021-01-29 11:39:06,137 basehttp "GET /show HTTP/1.1" 200 5837 157
+INFO 2021-01-29 11:39:16,583 views All data is fetched from greeting database. 33
+INFO 2021-01-29 11:39:16,589 basehttp "GET /show HTTP/1.1" 200 5587 157
+INFO 2021-01-29 11:39:17,206 basehttp "GET / HTTP/1.1" 200 3054 157
+INFO 2021-01-29 12:01:13,480 basehttp "GET / HTTP/1.1" 200 3054 157
+INFO 2021-01-29 12:01:13,515 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-29 12:01:21,799 views New Greeting Created 24
+INFO 2021-01-29 12:01:21,800 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 12:01:21,804 views All data is fetched from greeting database. 33
+INFO 2021-01-29 12:01:21,821 basehttp "GET /show HTTP/1.1" 200 6292 157
+INFO 2021-01-29 12:01:25,653 views Update page is rendered for user 9. 55
+INFO 2021-01-29 12:01:25,659 basehttp "GET /update/9 HTTP/1.1" 200 2640 157
+INFO 2021-01-29 12:01:30,309 views data for user id 9 is updated in greeting databse  49
+INFO 2021-01-29 12:01:30,310 basehttp "POST /update/9 HTTP/1.1" 302 0 157
+INFO 2021-01-29 12:01:30,313 views All data is fetched from greeting database. 33
+INFO 2021-01-29 12:01:30,325 basehttp "GET /show HTTP/1.1" 200 6309 157
+INFO 2021-01-29 12:02:08,984 views Update page is rendered for user 9. 55
+INFO 2021-01-29 12:02:08,988 basehttp "GET /update/9 HTTP/1.1" 200 2638 157
+INFO 2021-01-29 12:02:12,999 basehttp "GET / HTTP/1.1" 200 3054 157
+INFO 2021-01-29 12:09:44,374 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 12:09:45,397 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:11:50,603 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 12:11:51,696 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:11:54,505 basehttp "GET / HTTP/1.1" 200 3076 157
+INFO 2021-01-29 12:11:54,539 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-29 12:12:03,701 views New Greeting Created 27
+INFO 2021-01-29 12:12:03,704 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-29 12:12:03,709 views All data is fetched from greeting database. 36
+INFO 2021-01-29 12:12:03,731 basehttp "GET /show HTTP/1.1" 200 6746 157
+INFO 2021-01-29 12:13:55,261 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 12:13:56,379 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:13:58,576 basehttp "GET / HTTP/1.1" 200 3076 157
+INFO 2021-01-29 12:14:03,134 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:15:48,068 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:15:51,437 basehttp "GET / HTTP/1.1" 200 3115 157
+INFO 2021-01-29 12:15:55,634 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:20:02,371 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:20:03,559 basehttp "GET / HTTP/1.1" 200 3124 157
+INFO 2021-01-29 12:20:03,591 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-29 12:20:08,336 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:25:09,804 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 12:25:11,043 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:25:23,743 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 12:25:24,840 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:25:26,265 basehttp "GET / HTTP/1.1" 200 3297 157
+INFO 2021-01-29 12:25:26,297 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-29 12:25:30,139 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:26:55,934 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:26:57,607 basehttp "GET / HTTP/1.1" 200 3298 157
+INFO 2021-01-29 12:27:01,806 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:31:53,190 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:31:54,306 basehttp "GET / HTTP/1.1" 200 2929 157
+INFO 2021-01-29 12:31:54,336 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-29 12:31:58,583 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:37:02,399 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:37:03,867 basehttp "GET / HTTP/1.1" 200 3078 157
+INFO 2021-01-29 12:37:08,080 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:37:22,486 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:42:13,499 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:42:55,346 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:42:56,472 basehttp "GET / HTTP/1.1" 200 3132 157
+INFO 2021-01-29 12:42:56,503 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+WARNING 2021-01-29 12:43:00,276 log Forbidden (CSRF token missing or incorrect.): / 230
+WARNING 2021-01-29 12:43:00,276 basehttp "POST / HTTP/1.1" 403 2513 157
+INFO 2021-01-29 12:43:00,297 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:46:13,043 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-29 12:46:14,233 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:49:14,302 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:49:15,477 basehttp "GET / HTTP/1.1" 200 3141 157
+WARNING 2021-01-29 12:49:19,268 log Forbidden (CSRF token missing or incorrect.): / 230
+WARNING 2021-01-29 12:49:19,268 basehttp "POST / HTTP/1.1" 403 2513 157
+INFO 2021-01-29 12:49:19,292 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:50:36,564 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:50:37,870 basehttp "GET / HTTP/1.1" 200 3148 157
+INFO 2021-01-29 12:50:37,898 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+WARNING 2021-01-29 12:50:41,252 log Forbidden (CSRF token missing or incorrect.): / 230
+WARNING 2021-01-29 12:50:41,253 basehttp "POST / HTTP/1.1" 403 2513 157
+INFO 2021-01-29 12:50:41,283 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:54:18,572 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:54:19,824 basehttp "GET / HTTP/1.1" 200 3103 157
+WARNING 2021-01-29 12:54:24,123 log Forbidden (CSRF token missing or incorrect.): / 230
+WARNING 2021-01-29 12:54:24,123 basehttp "POST / HTTP/1.1" 403 2513 157
+INFO 2021-01-29 12:54:24,154 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:57:23,803 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:57:24,709 basehttp "GET / HTTP/1.1" 200 3127 157
+WARNING 2021-01-29 12:57:34,772 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:57:34,773 basehttp "POST /post HTTP/1.1" 403 2513 157
+INFO 2021-01-29 12:57:34,796 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-29 12:58:59,441 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 12:59:00,415 basehttp "GET / HTTP/1.1" 200 3152 157
+INFO 2021-01-29 12:59:00,448 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+WARNING 2021-01-29 12:59:06,890 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:06,890 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:08,567 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:08,568 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:08,960 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:08,961 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:09,135 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:09,135 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:09,288 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:09,288 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:09,439 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:09,440 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:09,583 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:09,583 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:09,727 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:09,728 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:09,865 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:09,866 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,022 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,023 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,159 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,160 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,327 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,327 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,479 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,479 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,639 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,640 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,815 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,815 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:10,999 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:10,999 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:12,055 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:12,055 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:12,352 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:12,352 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:12,535 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:12,536 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:13,048 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:13,048 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:13,262 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:13,263 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:13,482 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:13,482 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:13,663 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:13,664 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:13,823 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:13,823 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:13,991 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:13,991 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:14,159 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:14,160 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:14,328 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:14,328 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:16,511 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:16,512 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:17,743 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:17,743 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:17,951 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:17,951 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:18,151 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:18,152 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:18,847 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:18,847 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:19,079 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:19,080 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:19,494 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:19,495 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:19,705 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:19,705 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:20,134 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:20,135 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:20,288 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:20,288 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:20,447 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:20,448 basehttp "POST /post HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 12:59:20,983 log Forbidden (CSRF token missing or incorrect.): /post 230
+WARNING 2021-01-29 12:59:20,984 basehttp "POST /post HTTP/1.1" 403 2513 157
+INFO 2021-01-29 12:59:59,191 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 13:00:00,191 basehttp "GET / HTTP/1.1" 200 3153 157
+WARNING 2021-01-29 13:00:11,506 log Not Found: /post/ 230
+WARNING 2021-01-29 13:00:11,507 basehttp "POST /post/ HTTP/1.1" 404 2633 157
+INFO 2021-01-29 13:00:58,233 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 13:00:59,218 basehttp "GET / HTTP/1.1" 200 3148 157
+WARNING 2021-01-29 13:01:08,420 log Forbidden (CSRF token missing or incorrect.): / 230
+WARNING 2021-01-29 13:01:08,420 basehttp "POST / HTTP/1.1" 403 2513 157
+INFO 2021-01-29 13:06:40,876 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-29 13:06:42,111 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 13:06:46,366 basehttp "GET / HTTP/1.1" 200 3155 157
+WARNING 2021-01-29 13:06:50,562 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:06:50,562 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 13:06:51,520 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:06:51,520 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 13:06:51,855 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:06:51,855 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 13:06:52,015 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:06:52,015 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+INFO 2021-01-29 13:07:53,041 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 13:07:54,069 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 13:07:55,826 basehttp "GET / HTTP/1.1" 200 3155 157
+INFO 2021-01-29 13:07:55,850 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+WARNING 2021-01-29 13:08:01,372 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:08:01,372 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 13:08:11,250 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:08:11,251 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+WARNING 2021-01-29 13:08:11,560 log Forbidden (CSRF token missing or incorrect.): /create/ 230
+WARNING 2021-01-29 13:08:11,561 basehttp "POST /create/ HTTP/1.1" 403 2513 157
+INFO 2021-01-29 13:10:36,717 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\GreetingApp\settings.py changed, reloading. 240
+INFO 2021-01-29 13:10:37,754 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 13:10:40,354 basehttp "GET / HTTP/1.1" 200 3155 157
+INFO 2021-01-29 13:10:48,880 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-29 13:14:51,264 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 13:14:52,671 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 23:12:05,952 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 23:12:07,548 basehttp "GET / HTTP/1.1" 200 3156 157
+INFO 2021-01-29 23:12:07,576 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+WARNING 2021-01-29 23:12:09,007 log Not Found: /favicon.ico 230
+WARNING 2021-01-29 23:12:09,008 basehttp "GET /favicon.ico HTTP/1.1" 404 2653 157
+INFO 2021-01-29 23:12:12,923 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-29 23:13:05,941 views All data is fetched from greeting database. 65
+INFO 2021-01-29 23:13:05,951 basehttp "GET /show HTTP/1.1" 200 12918 157
+INFO 2021-01-29 23:14:53,951 views All data is fetched from greeting database. 65
+INFO 2021-01-29 23:14:53,957 basehttp "GET /show HTTP/1.1" 200 12918 157
+INFO 2021-01-29 23:14:56,053 views All data is fetched from greeting database. 65
+INFO 2021-01-29 23:14:56,059 basehttp "GET /show HTTP/1.1" 200 12918 157
+INFO 2021-01-29 23:17:19,105 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 23:17:20,257 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 23:17:23,214 basehttp "GET / HTTP/1.1" 200 3156 157
+ERROR 2021-01-29 23:17:29,835 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 39, in create_message
+    data1=json.load((request.body))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-29 23:17:29,838 basehttp "POST /create/ HTTP/1.1" 500 69049 157
+ERROR 2021-01-29 23:17:30,977 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 39, in create_message
+    data1=json.load((request.body))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-29 23:17:30,978 basehttp "POST /create/ HTTP/1.1" 500 69049 157
+ERROR 2021-01-29 23:17:31,312 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 39, in create_message
+    data1=json.load((request.body))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-29 23:17:31,313 basehttp "POST /create/ HTTP/1.1" 500 69049 157
+ERROR 2021-01-29 23:17:31,497 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 39, in create_message
+    data1=json.load((request.body))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-29 23:17:31,498 basehttp "POST /create/ HTTP/1.1" 500 69049 157
+ERROR 2021-01-29 23:17:31,786 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 39, in create_message
+    data1=json.load((request.body))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-29 23:17:31,788 basehttp "POST /create/ HTTP/1.1" 500 69049 157
+INFO 2021-01-29 23:17:56,850 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-29 23:17:57,995 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-29 23:18:00,079 basehttp "GET / HTTP/1.1" 200 3156 157
+INFO 2021-01-29 23:18:05,329 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-29 23:18:07,820 views All data is fetched from greeting database. 65
+INFO 2021-01-29 23:18:07,832 basehttp "GET /show HTTP/1.1" 200 12918 157
+INFO 2021-01-30 08:33:22,855 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 08:33:27,077 basehttp "GET / HTTP/1.1" 200 3156 157
+INFO 2021-01-30 08:33:27,182 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+WARNING 2021-01-30 08:33:28,806 log Not Found: /favicon.ico 230
+WARNING 2021-01-30 08:33:28,806 basehttp "GET /favicon.ico HTTP/1.1" 404 2653 157
+INFO 2021-01-30 08:33:31,560 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 08:38:32,182 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 08:38:33,242 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 08:39:05,591 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 08:39:06,638 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 08:39:07,742 basehttp "GET / HTTP/1.1" 200 3156 157
+ERROR 2021-01-30 08:39:15,431 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:15,434 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:15,435 basehttp "POST /create/ HTTP/1.1" 500 68842 157
+ERROR 2021-01-30 08:39:15,436 basehttp "POST /create/ HTTP/1.1" 500 68842 157
+ERROR 2021-01-30 08:39:19,867 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:19,868 basehttp "POST /create/ HTTP/1.1" 500 68842 157
+ERROR 2021-01-30 08:39:20,059 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:20,060 basehttp "POST /create/ HTTP/1.1" 500 68842 157
+ERROR 2021-01-30 08:39:20,242 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:20,243 basehttp "POST /create/ HTTP/1.1" 500 68842 157
+ERROR 2021-01-30 08:39:20,395 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:20,396 basehttp "POST /create/ HTTP/1.1" 500 68842 157
+INFO 2021-01-30 08:39:26,655 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 08:39:27,715 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 08:39:31,454 basehttp "GET / HTTP/1.1" 200 3156 157
+ERROR 2021-01-30 08:39:35,256 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:35,258 basehttp "POST /create/ HTTP/1.1" 500 68843 157
+ERROR 2021-01-30 08:39:35,928 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:35,929 basehttp "POST /create/ HTTP/1.1" 500 68843 157
+ERROR 2021-01-30 08:39:36,092 log Internal Server Error: /create/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 40, in create_message
+    data=json.load(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+AttributeError: 'bytes' object has no attribute 'read'
+ERROR 2021-01-30 08:39:36,093 basehttp "POST /create/ HTTP/1.1" 500 68843 157
+INFO 2021-01-30 08:39:46,677 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 08:39:47,734 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 08:39:48,897 basehttp "GET / HTTP/1.1" 200 3156 157
+INFO 2021-01-30 08:39:52,598 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 08:45:07,115 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 08:45:08,167 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:04:59,694 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 09:05:00,666 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:05:01,964 basehttp "GET / HTTP/1.1" 200 3312 157
+INFO 2021-01-30 09:05:04,966 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:05:09,913 basehttp "GET / HTTP/1.1" 200 3312 157
+INFO 2021-01-30 09:05:44,633 basehttp "GET / HTTP/1.1" 200 3312 157
+INFO 2021-01-30 09:05:49,891 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:07:54,204 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:07:55,321 basehttp "GET / HTTP/1.1" 200 3524 157
+INFO 2021-01-30 09:08:00,084 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:09:33,363 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:09:34,324 basehttp "GET / HTTP/1.1" 200 3509 157
+INFO 2021-01-30 09:09:38,949 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:10:20,585 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:10:21,479 basehttp "GET / HTTP/1.1" 200 3174 157
+INFO 2021-01-30 09:10:25,824 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:14:37,008 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:14:38,219 basehttp "GET / HTTP/1.1" 200 3167 157
+INFO 2021-01-30 09:14:42,355 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:16:19,214 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:16:20,570 basehttp "GET / HTTP/1.1" 200 3192 157
+INFO 2021-01-30 09:16:24,496 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:17:31,368 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:17:32,620 basehttp "GET / HTTP/1.1" 200 3191 157
+INFO 2021-01-30 09:17:37,740 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:19:13,651 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:19:14,611 basehttp "GET / HTTP/1.1" 200 3175 157
+INFO 2021-01-30 09:19:22,804 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:20:28,155 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:20:50,573 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:20:52,056 basehttp "GET / HTTP/1.1" 200 3173 157
+INFO 2021-01-30 09:21:00,013 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:22:02,979 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:22:04,518 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:22:11,701 basehttp "POST /create/ HTTP/1.1" 200 21 157
+INFO 2021-01-30 09:22:11,728 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:22:20,569 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:27:06,153 views All data is fetched from greeting database. 68
+INFO 2021-01-30 09:27:06,167 basehttp "GET /show HTTP/1.1" 200 17069 157
+INFO 2021-01-30 09:30:20,592 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 09:30:21,697 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:51:20,307 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 09:51:21,272 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:51:26,388 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:51:37,743 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:51:38,397 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:51:38,701 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:51:59,239 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:52:02,403 basehttp "GET / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:52:06,679 basehttp "POST / HTTP/1.1" 200 3151 157
+INFO 2021-01-30 09:52:06,680 basehttp "POST /create/ HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:53:23,144 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 09:53:24,323 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:55:46,911 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 09:55:48,079 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:55:49,192 basehttp "GET / HTTP/1.1" 200 3144 157
+INFO 2021-01-30 09:55:53,870 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:55:53,892 basehttp "POST / HTTP/1.1" 200 15 157
+INFO 2021-01-30 09:57:11,899 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 09:57:13,030 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:58:14,316 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 09:58:15,260 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 09:58:17,586 basehttp "GET / HTTP/1.1" 200 3144 157
+INFO 2021-01-30 09:58:22,646 views New Greeting Created 32
+INFO 2021-01-30 09:58:22,654 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-30 09:58:22,657 views All data is fetched from greeting database. 41
+INFO 2021-01-30 09:58:22,667 views New Greeting Created 32
+INFO 2021-01-30 09:58:22,668 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-30 09:58:22,676 basehttp "GET /show HTTP/1.1" 200 18577 157
+INFO 2021-01-30 09:58:22,680 views All data is fetched from greeting database. 41
+INFO 2021-01-30 09:58:22,694 basehttp "GET /show HTTP/1.1" 200 18577 157
+INFO 2021-01-30 10:03:51,219 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:03:52,492 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:06:36,812 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:06:37,996 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:07:04,271 basehttp "GET / HTTP/1.1" 200 3144 157
+INFO 2021-01-30 10:09:51,678 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:10:09,321 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:10:10,222 basehttp "GET / HTTP/1.1" 200 3153 157
+INFO 2021-01-30 10:10:14,698 views All data is fetched from greeting database. 41
+INFO 2021-01-30 10:10:14,702 views New Greeting Created 32
+INFO 2021-01-30 10:10:14,707 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-30 10:10:14,709 views All data is fetched from greeting database. 41
+INFO 2021-01-30 10:10:14,724 basehttp "POST /display/ HTTP/1.1" 200 18269 157
+INFO 2021-01-30 10:10:14,725 basehttp "GET /show HTTP/1.1" 200 18530 157
+INFO 2021-01-30 10:11:54,970 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:11:55,959 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:11:59,605 basehttp "GET / HTTP/1.1" 200 17 157
+WARNING 2021-01-30 10:11:59,686 log Not Found: /favicon.ico 230
+WARNING 2021-01-30 10:11:59,687 basehttp "GET /favicon.ico HTTP/1.1" 404 2656 157
+INFO 2021-01-30 10:12:27,344 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:12:32,808 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:12:35,453 basehttp "GET / HTTP/1.1" 200 3153 157
+WARNING 2021-01-30 10:12:36,735 log Not Found: /favicon.ico 230
+WARNING 2021-01-30 10:12:36,736 basehttp "GET /favicon.ico HTTP/1.1" 404 2656 157
+INFO 2021-01-30 10:12:40,885 views New Greeting Created 32
+INFO 2021-01-30 10:12:40,890 views All data is fetched from greeting database. 41
+INFO 2021-01-30 10:12:40,891 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-30 10:12:40,895 views All data is fetched from greeting database. 41
+INFO 2021-01-30 10:12:40,910 basehttp "POST /display/ HTTP/1.1" 200 18722 157
+INFO 2021-01-30 10:12:40,914 basehttp "GET /show HTTP/1.1" 200 18983 157
+INFO 2021-01-30 10:14:04,547 views All data is fetched from greeting database. 41
+INFO 2021-01-30 10:14:04,554 basehttp "GET /show HTTP/1.1" 200 18722 157
+INFO 2021-01-30 10:14:09,553 views All data is fetched from greeting database. 41
+INFO 2021-01-30 10:14:09,559 basehttp "GET /show HTTP/1.1" 200 18722 157
+INFO 2021-01-30 10:16:59,518 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:17:00,524 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:24:46,721 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:24:48,437 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:32:05,685 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:32:06,763 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:38:49,383 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 10:38:50,331 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:40:10,899 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:40:11,842 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:41:29,113 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:41:30,044 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:41:34,394 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\GreetingApp\urls.py changed, reloading. 240
+INFO 2021-01-30 10:41:35,349 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:46:08,593 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:46:09,522 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:46:46,275 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:46:50,313 basehttp "GET / HTTP/1.1" 200 3141 157
+INFO 2021-01-30 10:46:50,330 basehttp "GET /static/js/greeting.js HTTP/1.1" 304 0 157
+INFO 2021-01-30 10:47:00,198 views New Greeting Created 39
+INFO 2021-01-30 10:47:00,205 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-30 10:47:00,207 views All data is fetched from greeting database. 56
+INFO 2021-01-30 10:47:00,223 views New Greeting Created 39
+INFO 2021-01-30 10:47:00,223 basehttp "POST / HTTP/1.1" 302 0 157
+INFO 2021-01-30 10:47:00,231 basehttp "GET /show HTTP/1.1" 200 19887 157
+INFO 2021-01-30 10:47:00,234 views All data is fetched from greeting database. 56
+INFO 2021-01-30 10:47:00,244 basehttp "GET /show HTTP/1.1" 200 19887 157
+INFO 2021-01-30 10:47:18,613 basehttp "GET / HTTP/1.1" 200 3141 157
+INFO 2021-01-30 10:48:21,559 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:48:22,503 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:48:24,854 basehttp "GET / HTTP/1.1" 200 351 157
+WARNING 2021-01-30 10:48:29,818 log Not Found: /update/None 230
+WARNING 2021-01-30 10:48:29,818 basehttp "POST /update/None HTTP/1.1" 404 2646 157
+INFO 2021-01-30 10:48:50,062 basehttp "GET / HTTP/1.1" 200 351 157
+INFO 2021-01-30 10:49:00,049 views All data is fetched from greeting database. 56
+INFO 2021-01-30 10:49:00,062 basehttp "GET /show HTTP/1.1" 200 19626 157
+INFO 2021-01-30 10:50:17,571 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:50:18,600 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:50:20,672 basehttp "GET / HTTP/1.1" 200 346 157
+WARNING 2021-01-30 10:50:26,448 views Invalid Data in greetings 37
+ERROR 2021-01-30 10:50:26,649 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: NOT NULL constraint failed: Greeting_greet.name
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 34, in post
+    user.save()
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 754, in save
+    force_update=force_update, update_fields=update_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 792, in save_base
+    force_update, using, update_fields,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\base.py", line 935, in _do_insert
+    using=using, raw=raw,
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 413, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: NOT NULL constraint failed: Greeting_greet.name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 38, in post
+    raise GreetingException("Invalid Data in Greeting!!")
+Greeting.greeting_exception.GreetingException: Invalid Data in Greeting!!
+ERROR 2021-01-30 10:50:26,652 basehttp "POST /index/ HTTP/1.1" 500 146869 157
+INFO 2021-01-30 10:50:59,235 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:51:00,204 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:51:01,330 basehttp "GET / HTTP/1.1" 200 346 157
+WARNING 2021-01-30 10:51:02,595 log Not Found: /index/ 230
+WARNING 2021-01-30 10:51:02,595 basehttp "POST /index/ HTTP/1.1" 404 2636 157
+INFO 2021-01-30 10:51:24,009 views All data is fetched from greeting database. 56
+INFO 2021-01-30 10:51:24,021 basehttp "GET /show HTTP/1.1" 200 19626 157
+INFO 2021-01-30 10:51:29,848 basehttp "GET / HTTP/1.1" 200 346 157
+WARNING 2021-01-30 10:51:35,622 log Not Found: /index/ 230
+WARNING 2021-01-30 10:51:35,623 basehttp "POST /index/ HTTP/1.1" 404 2636 157
+INFO 2021-01-30 10:52:21,970 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:52:26,817 basehttp "GET / HTTP/1.1" 200 346 157
+WARNING 2021-01-30 10:52:33,454 log Not Found: /index/ 230
+WARNING 2021-01-30 10:52:33,455 basehttp "POST /index/ HTTP/1.1" 404 2636 157
+INFO 2021-01-30 10:53:59,208 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:54:00,153 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:54:15,687 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:54:16,543 basehttp "GET / HTTP/1.1" 200 346 157
+WARNING 2021-01-30 10:54:17,959 log Not Found: /index/ 230
+WARNING 2021-01-30 10:54:17,959 basehttp "POST /index/ HTTP/1.1" 404 2636 157
+INFO 2021-01-30 10:54:54,321 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:54:56,198 basehttp "GET / HTTP/1.1" 200 333 157
+WARNING 2021-01-30 10:54:58,073 log Not Found: /index/ 230
+WARNING 2021-01-30 10:54:58,075 basehttp "GET /index/? HTTP/1.1" 404 2635 157
+INFO 2021-01-30 10:55:30,736 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\urls.py changed, reloading. 240
+INFO 2021-01-30 10:55:31,682 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 10:55:40,373 basehttp "GET / HTTP/1.1" 200 333 157
+INFO 2021-01-30 10:55:46,422 basehttp "GET /index/? HTTP/1.1" 200 3147 157
+INFO 2021-01-30 10:55:55,665 views New Greeting Created 39
+INFO 2021-01-30 10:55:55,672 basehttp "POST /index/ HTTP/1.1" 302 0 157
+INFO 2021-01-30 10:55:55,676 views All data is fetched from greeting database. 56
+INFO 2021-01-30 10:55:55,698 views New Greeting Created 39
+INFO 2021-01-30 10:55:55,698 basehttp "POST /index/? HTTP/1.1" 302 0 157
+INFO 2021-01-30 10:55:55,705 basehttp "GET /show HTTP/1.1" 200 20799 157
+INFO 2021-01-30 10:55:55,707 views All data is fetched from greeting database. 56
+INFO 2021-01-30 10:55:55,721 basehttp "GET /show HTTP/1.1" 200 20799 157
+INFO 2021-01-30 11:22:27,172 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:22:33,071 basehttp "GET / HTTP/1.1" 200 334 157
+WARNING 2021-01-30 11:22:33,169 log Not Found: /favicon.ico 230
+WARNING 2021-01-30 11:22:33,169 basehttp "GET /favicon.ico HTTP/1.1" 404 2651 157
+INFO 2021-01-30 11:22:34,455 basehttp "GET /index/? HTTP/1.1" 200 3147 157
+INFO 2021-01-30 11:23:21,932 basehttp "GET / HTTP/1.1" 200 334 157
+WARNING 2021-01-30 11:23:22,009 log Not Found: /favicon.ico 230
+WARNING 2021-01-30 11:23:22,010 basehttp "GET /favicon.ico HTTP/1.1" 404 2651 157
+INFO 2021-01-30 11:33:44,200 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 11:33:45,360 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:44:38,448 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 11:44:39,989 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:45:15,385 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 11:45:16,601 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:48:08,450 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 11:48:09,684 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:48:56,297 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:48:59,699 basehttp "GET / HTTP/1.1" 200 334 157
+WARNING 2021-01-30 11:48:59,824 log Not Found: /favicon.ico 230
+WARNING 2021-01-30 11:48:59,824 basehttp "GET /favicon.ico HTTP/1.1" 404 2651 157
+ERROR 2021-01-30 11:49:02,003 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 29, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2021-01-30 11:49:02,005 basehttp "GET /index/? HTTP/1.1" 500 79845 157
+INFO 2021-01-30 11:51:35,189 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 11:51:39,372 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:51:40,412 basehttp "GET / HTTP/1.1" 200 334 157
+ERROR 2021-01-30 11:51:41,909 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 30, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2021-01-30 11:51:41,912 basehttp "GET /index/? HTTP/1.1" 500 79846 157
+INFO 2021-01-30 11:54:05,388 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-01-30 11:54:06,510 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:54:08,570 basehttp "GET / HTTP/1.1" 200 3148 157
+INFO 2021-01-30 11:54:19,174 basehttp "POST / HTTP/1.1" 200 3148 157
+ERROR 2021-01-30 11:54:19,342 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 30, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO 2021-01-30 11:55:37,901 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:55:39,852 basehttp "GET / HTTP/1.1" 200 3148 157
+INFO 2021-01-30 11:55:44,489 basehttp "POST / HTTP/1.1" 200 3148 157
+ERROR 2021-01-30 11:55:44,633 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 30, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO 2021-01-30 11:57:30,552 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:57:32,140 basehttp "GET / HTTP/1.1" 200 3148 157
+INFO 2021-01-30 11:57:36,347 basehttp "POST / HTTP/1.1" 200 3148 157
+ERROR 2021-01-30 11:57:36,505 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 30, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO 2021-01-30 11:59:41,899 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 11:59:43,058 basehttp "GET / HTTP/1.1" 200 3208 157
+INFO 2021-01-30 11:59:46,798 basehttp "POST / HTTP/1.1" 200 3208 157
+INFO 2021-01-30 11:59:54,154 basehttp "POST / HTTP/1.1" 200 3208 157
+INFO 2021-01-30 12:00:27,776 autoreload Watching for file changes with StatReloader 617
+INFO 2021-01-30 12:00:29,069 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-01-30 12:00:33,369 basehttp "POST / HTTP/1.1" 200 3207 157
+ERROR 2021-01-30 12:00:33,544 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 30, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+ERROR 2021-01-30 12:00:53,108 log Internal Server Error: /index/ 230
+Traceback (most recent call last):
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 30, in create_user
+    data=json.loads(p)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO 2021-01-30 12:00:53,112 basehttp "POST / HTTP/1.1" 200 3207 157
+ERROR 2021-01-30 12:00:53,116 basehttp "POST /index/ HTTP/1.1" 500 80151 157
+INFO 2021-03-07 01:00:02,913 autoreload Watching for file changes with StatReloader 617
