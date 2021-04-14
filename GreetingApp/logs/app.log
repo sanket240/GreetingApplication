@@ -1756,3 +1756,72 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 INFO 2021-01-30 12:00:53,112 basehttp "POST / HTTP/1.1" 200 3207 157
 ERROR 2021-01-30 12:00:53,116 basehttp "POST /index/ HTTP/1.1" 500 80151 157
 INFO 2021-03-07 01:00:02,913 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:30:20,163 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:30:22,622 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:30:23,103 basehttp "GET /static/js/greeting.js HTTP/1.1" 200 306 157
+WARNING 2021-04-14 11:30:24,971 log Not Found: /favicon.ico 224
+WARNING 2021-04-14 11:30:24,971 basehttp "GET /favicon.ico HTTP/1.1" 404 2651 157
+INFO 2021-04-14 11:30:32,147 basehttp "POST / HTTP/1.1" 200 3207 157
+ERROR 2021-04-14 11:30:32,558 log Internal Server Error: /index/ 224
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 26, in create_user
+    data = json.loads(p)
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO 2021-04-14 11:32:57,532 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:32:59,692 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:33:07,549 basehttp "POST / HTTP/1.1" 200 3207 157
+ERROR 2021-04-14 11:33:07,736 log Internal Server Error: /index/ 224
+Traceback (most recent call last):
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py", line 26, in create_user
+    data = json.loads(p)
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanke\AppData\Local\Programs\Python\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO 2021-04-14 11:33:33,369 views All data is fetched from greeting database. 48
+INFO 2021-04-14 11:33:33,479 basehttp "GET /show HTTP/1.1" 200 2524 157
+INFO 2021-04-14 11:34:29,599 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:34:31,437 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:34:36,820 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:34:59,866 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:35:01,865 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:35:02,033 basehttp "GET /static/js/greeting.js HTTP/1.1" 200 306 157
+WARNING 2021-04-14 11:35:07,869 log Not Found: /favicon.ico 224
+WARNING 2021-04-14 11:35:07,869 basehttp "GET /favicon.ico HTTP/1.1" 404 2651 157
+INFO 2021-04-14 11:35:14,359 basehttp "POST / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:35:18,674 views All data is fetched from greeting database. 48
+INFO 2021-04-14 11:35:18,745 basehttp "GET /show HTTP/1.1" 200 2524 157
+INFO 2021-04-14 11:35:21,982 views All data is fetched from greeting database. 48
+INFO 2021-04-14 11:35:22,056 basehttp "GET /show HTTP/1.1" 200 2524 157
+INFO 2021-04-14 11:35:25,839 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:36:19,245 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-04-14 11:36:19,860 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:36:22,889 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:36:30,613 basehttp "POST / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:38:32,805 autoreload C:\Users\sanke\PycharmProjects\MyGreetingApp\GreetingApp\Greeting\views.py changed, reloading. 240
+INFO 2021-04-14 11:38:33,482 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:38:35,293 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:38:45,320 basehttp "POST / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:38:48,855 views All data is fetched from greeting database. 50
+INFO 2021-04-14 11:38:48,931 basehttp "GET /show HTTP/1.1" 200 2524 157
+INFO 2021-04-14 11:39:22,245 autoreload Watching for file changes with StatReloader 617
+INFO 2021-04-14 11:39:23,706 basehttp "GET / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:39:31,685 basehttp "POST / HTTP/1.1" 200 3207 157
+INFO 2021-04-14 11:39:31,761 views New user is added to greeting database. 34

@@ -22,16 +22,18 @@ def create_user(request):
         Returns:
               renders the request from page
     """
-    p = request.body
-    data = json.loads(p)
-    name = data['name']
-    msg = data['msg']
-    user = Greet(name=name, msg=msg)
-    user.save()
-    data = json.dumps({"user_id": 'Sanket'})
-
-    return HttpResponse(data, content_type='application/json', status=200)
-
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        msg = request.POST.get('msg')
+        user = Greet(name=name, msg=msg)
+        try:
+            user.save()
+            messages.success(request, 'Your greeting is added!!!')
+        except:
+            pass
+        logger.info("New user is added to greeting database.")
+        return redirect('/show')
+    return render(request, 'index.html')
 
 # Function to print all greetings
 def show(request):
